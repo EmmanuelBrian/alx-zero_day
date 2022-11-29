@@ -1,1 +1,1 @@
-My first readme
+You learn by making mistakes
